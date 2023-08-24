@@ -2,3 +2,86 @@
     margin: 0;
     padding: 0;
 }
+ .container h1{
+    margin-left: 120px;
+    margin-top: 200px;
+    color: #A58054;
+font-family: Public Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2.24px;
+}
+.container h2{
+    margin-left: 118px;
+    color: #000;
+font-family: PT Serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.container p{
+    margin-top: 30px;
+    margin-left: 120px;
+    color: #646464;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}
+.p1{
+        margin-left: 120px;
+        margin-top: 400px;
+    color: #B69874;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.container3 h3{
+    margin-left: 120px;
+        margin-top: 30px;
+    color: #1B3544;
+font-family: Poppins;
+font-size: 26px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container3{
+    padding: 50px 0;
+}
+.container3 button{
+    margin-left: 120px;
+    margin-top: 60px;
+    width: 185px;
+height: 61px;
+flex-shrink: 0;
+background: #1B3544;
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.container8 img{
+    margin-left: 560px;
+    margin-top: -500px;
+}
+.container5 h5{
+    width:366px;
+height: 79px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+box-shadow: 0px 4px 22px 0px rgba(229, 229, 229, 0.53);
+}
+
+    
+    
+   
